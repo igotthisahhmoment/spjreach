@@ -1,5 +1,0 @@
-
-
-_G.exec = function(ss)
-    return loadstring(ss)
-end
